@@ -1,0 +1,10 @@
+Package: bibTools
+Version: 0.0-1
+Title: Tools for finding, manipulating, and verifying bibliographic info
+Description: A suite of tools for use with bibliographic information in various formats. These include transforming information from one format to another, summarizing and querying bibliographic information, and checking and correcting bibliographic entries in a document.
+Author: Gabriel Becker
+Depends: methods
+Imports: bibtex, XML, RMendeley
+Suggests:  RUnit 
+Maintainer: Gabriel Becker <gmbecker@ucdavis.edu>
+License: LGPL
